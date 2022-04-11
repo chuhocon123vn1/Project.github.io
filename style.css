@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+    box-sizing: border-box;
+}
+.container{
+    width: 1900px;
+    margin: 0, 50px;
+}
+
+
+.logo{
+    height: 200px;
+    width: 400px;
+    margin-left: 650px;
+}
+.Vn{
+    height: 100px;
+    margin-bottom: 100px;
+}
+
+.B{
+    width: 1900px;
+   
+}
+nav{
+    margin-top: 30px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    float: left;
+    margin-top: 5px;
+}
+
+ul li a{
+    color: black;
+    margin: 90px;
+    text-decoration: none;
+    font-size: 50px;
+    
+}
+
+a.b1:hover{
+    background-color:  #e6b3b3;
+    border-radius: 100px;
+    transition: all 1s;
+
+}
+.type{
+    padding-top: 6px;
+    
+}
+
+.C{
+    width: 1900px;
+    
+}
+.banner2{
+    width: 1900px;
+    margin-top: 10px;
+}
+
+.D{
+    width: 1900px;
+    margin-top: 10px;
+    
+}
+.Nam{
+    display: flex;
+    
+}
+.d{
+    width: 400px;
+    flex: auto;
+    margin: 0px 110px;
+    border-radius: 15px ;
+    border: solid chocolate;
+
+}
+.pic{
+    width: 400px;
+}
+.nu{
+    padding: 10px;
+    color: #ff80bf;
+}
+
+.treem{
+    padding: 10px;
+    color:  #ff6666;
+}
+
+.E{
+    width: 1900px;
+    padding-top: 30px;
+}
+.banner1{
+  height: 350px;
+  width: 100%;
+}
+.F{
+    width: 1900px;
+    display: flex;
+    padding: 0px 20px;
+}
+.logo1{
+    width: 200px;
+}
+.f1{
+    margin-top: 50px;
+}
+.f2{
+    margin-top: 50px;
+}
